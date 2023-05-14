@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>student name:</h1>
+
+<ul>
+    {% for stu in dataset %}
+        <li>
+           student name = {{stu.fname}} {{stu.lname}} <br> student age = {{stu.age}} <hr>
+        </li>
+    {% endfor %}
+</ul>
+
+<h1>course name:</h1>
+
+<ul>
+    {% for cou in dataset %}
+        <li>
+            {{cou.course_name}} <hr>
+        </li>
+    {% endfor %}
+</ul>
+
+
+
+
+</body>
+</html>
