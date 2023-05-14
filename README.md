@@ -17,6 +17,4 @@
 
 the view from html 
 
-![stu](https://github.com/maelghamrawy/djangostu/assets/28117071/0e45db7b-a8e4-47e8-9ac3-b28ff802cf09)
-
-![Screenshot 2023-05-14 152254](https://github.com/maelghamrawy/djangostu/assets/28117071/7121c0ba-c594-4f46-bec3-9e866635749a)
+![Screenshot 2023-05-14 213415](https://github.com/maelghamrawy/djangostu/assets/28117071/06d0202c-07ef-46ab-8664-4920ecf1264b)
